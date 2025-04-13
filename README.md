@@ -6,6 +6,9 @@
 
 NueraHire is an advanced AI-powered job screening system that revolutionizes the recruitment process. It combines cutting-edge technology with user-friendly interfaces to streamline hiring workflows.
 
+## 📚 Project Documentation
+- [View Complete Documentation (PDF)](docs/nuerahire_documentation.pdf)
+
 ## 🤖 How NueraHire is Different
 
 Unlike traditional job portals, NueraHire leverages Generative AI to transform the recruitment process:
